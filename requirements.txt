@@ -1,0 +1,4 @@
+ipython
+meshtastic
+transformers
+torch
