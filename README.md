@@ -22,7 +22,7 @@ Serial Interactive LLM Meshtastic Chat Client which chats on the Primary Channel
 Serial Interactive LLM Meshtastic Chat Client 0.1.0
 
 Usage:
-    python sillmmcc.py "<SERIAL_PORT>"
+    python sillmmcc.py <SERIAL_PORT>
 
 This script sends and receives text messages over the serial interface.
 It uses PyPubSub to subscribe to text messages.
